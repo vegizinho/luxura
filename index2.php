@@ -63,32 +63,39 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4">
-			Luxura front image!
-			</div>
-			<div class="col-md-8">
-				<h2>Welcome to Luxura, professional tanning solutions</h2>
+			<div class="col-md-3">Big sunbed image</div>
+			<div class="col-md-6">
+				<h2>Luxura title 1</h2>
 				<p>Just a simple paragraph text. Just a simple paragraph text. Just
 					a simple paragraph text. Just a simple paragraph text. Just a
 					simple paragraph text. Just a simple paragraph text. Just a simple
 					paragraph text. Just a simple paragraph text. Just a simple
 					paragraph text. Just a simple paragraph text. Just a simple
-					paragraph text.</p>
-				<hr>
-				<h4>Product range overview</h4>
-				<p>List of images with links</p>
-				<ul class="frontpage-imagelist">
-					<li>Image 1 display here</li>
-					<li>Image 2 display here</li>
-					<li>Image 3 display here</li>
-					<li>Image 4 display here</li>
-				</ul>
-				<ul class="frontpage-imagelist">
-					<li>Image 5 display here</li>
-					<li>Image 6 display here</li>
-					<li>Image 7 display here</li>
-					<li>Image 8 display here</li>
-				</ul>
+					paragraph text. Just a simple paragraph text.</p>
+				<h2>Luxura title 2</h2>
+				<p>Just a simple paragraph text. Just a simple paragraph text. Just
+					a simple paragraph text. Just a simple paragraph text. Just a
+					simple paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text. Just a simple
+					paragraph text. Just a simple paragraph text.</p>
+			</div>
+			<div class="col-md-3">
+				<div class="list-group movedown1">
+				  <a href="#" class="list-group-item active">Luxura Model</a>
+				  <a href="#" class="list-group-item"><span class="glyphicon glyphicon-chevron-right moveright1"></span>Features</a>
+				  <a href="#" class="list-group-item"><span class="glyphicon glyphicon-chevron-right moveright1"></span>Technical data</a>
+				  <a href="#" class="list-group-item"><span class="glyphicon glyphicon-chevron-right moveright1"></span>Maintenence</a>
+				  <a href="#" class="list-group-item"><span class="glyphicon glyphicon-chevron-right moveright1"></span>Tanning accessories</a>
+				  <a href="#" class="list-group-item"><span class="glyphicon glyphicon-chevron-right moveright1"></span>Photo gallery</a>
+				  <a href="#" class="list-group-item"><span class="glyphicon glyphicon-chevron-right moveright1"></span>Brochures</a>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -97,10 +104,10 @@
 		<div class="container footer">
 			<div class="row">
 				<div class="col-md-12">
-					<strong>Copyright
-					<?php echo date('Y'); ?>
-					. &copy; Mikro d.o.o. Sva prava pridržana.</strong> Zabranjeno kopiranje i
-					prenošenje informacija sa stranice bez prethodne dozvole.
+					<strong>Copyright <?php echo date('Y'); ?> . &copy; Mikro d.o.o.
+						Sva prava pridržana.
+					</strong> Zabranjeno kopiranje i prenošenje informacija sa stranice
+					bez prethodne dozvole.
 				</div>
 			</div>
 		</div>
