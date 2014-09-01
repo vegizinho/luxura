@@ -21,7 +21,6 @@
 <body>
 
 	<div class="fullwidth">
-
 		<nav class="navbar navbar-default" role="navigation">
 			<div class="container">
 				<!-- Brand and toggle get grouped for better mobile display -->
@@ -55,64 +54,41 @@
 						</li>
 						<li class="dropdown"><a href="#">Kontakt</a></li>
 					</ul>
-					<!--       <form class="navbar-form navbar-left" role="search"> -->
-					<!--         <div class="form-group"> -->
-					<!--           <input type="text" class="form-control" placeholder="Search"> -->
-					<!--         </div> -->
-					<!--         <button type="submit" class="btn btn-default">Submit</button> -->
-					<!--       </form> -->
-
-
-					<!--       <ul class="nav navbar-nav navbar-right"> -->
-					<!--         <li><a href="#">Link</a></li> -->
-					<!--         <li class="dropdown"> -->
-					<!--           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a> -->
-					<!--           <ul class="dropdown-menu" role="menu"> -->
-					<!--             <li><a href="#">Action</a></li> -->
-					<!--             <li><a href="#">Another action</a></li> -->
-					<!--             <li><a href="#">Something else here</a></li> -->
-					<!--             <li class="divider"></li> -->
-					<!--             <li><a href="#">Separated link</a></li> -->
-					<!--           </ul> -->
-					<!--         </li> -->
-					<!--       </ul> -->
 				</div>
 				<!-- /.navbar-collapse -->
 			</div>
 			<!-- /.container-fluid -->
 		</nav>
-
-
-
-
-
-
-		<!-- 		<div class="container"> -->
-		<!-- 			<div class="header"> -->
-		<!-- 				<div class="row"> -->
-		<!-- 					<div class="col-md-12">This is header content here ;-)</div> -->
-		<!-- 				</div> -->
-		<!-- 			</div> -->
-		<!-- 			<div class="menu"> -->
-		<!-- 				<div class="row"> -->
-		<!-- 					<div class="col-md-12">This is menu content here ;-)</div> -->
-		<!-- 				</div> -->
-		<!-- 			</div> -->
-		<!-- 		</div> -->
 	</div>
 
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12">
-				<h1>Buenos dios muchacos!</h1>
-				<h3>This is just a test content that will show how we can use
-					Bootstrap cells and containers while resizing our screen.</h3>
+			<div class="col-md-4">
+			Luxura front image!
+			</div>
+			<div class="col-md-8">
+				<h1>Welcome to Luxura, professional tanning solutions</h1>
 				<p>Just a simple paragraph text. Just a simple paragraph text. Just
 					a simple paragraph text. Just a simple paragraph text. Just a
 					simple paragraph text. Just a simple paragraph text. Just a simple
 					paragraph text. Just a simple paragraph text. Just a simple
 					paragraph text. Just a simple paragraph text. Just a simple
 					paragraph text.</p>
+				<hr>
+				<h4>Product range overview</h4>
+				<p>List of images with links</p>
+				<ul class="frontpage-imagelist">
+					<li>Image 1 display here</li>
+					<li>Image 2 display here</li>
+					<li>Image 3 display here</li>
+					<li>Image 4 display here</li>
+				</ul>
+				<ul class="frontpage-imagelist">
+					<li>Image 5 display here</li>
+					<li>Image 6 display here</li>
+					<li>Image 7 display here</li>
+					<li>Image 8 display here</li>
+				</ul>
 			</div>
 		</div>
 	</div>

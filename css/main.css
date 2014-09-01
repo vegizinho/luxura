@@ -18,6 +18,12 @@ body
 	margin: auto;
 }
 
+.frontpage-imagelist ul, li
+{
+	bullet-style: none;
+	display: inline-block;
+}
+
 .footer
 {
 	margin-top: 20px;
