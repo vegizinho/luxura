@@ -10,3 +10,10 @@ body
 {
 	background-color: #fff;
 }
+
+.fullwidth
+{
+	width: 100%;
+	background-color: #fff;
+	margin: auto;
+}
