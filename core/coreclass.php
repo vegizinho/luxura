@@ -17,5 +17,10 @@ class core
 			require_once($file404);
 		}
 		
+		//chose layout depending on page name
+		
+		
+		
 	}
+	
 }

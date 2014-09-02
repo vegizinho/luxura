@@ -61,6 +61,8 @@
 		</nav>
 	</div>
 
+	
+<!-- Main part of the content -->	
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3">Big sunbed image</div>
