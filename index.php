@@ -1,10 +1,6 @@
 <?php 
 
-require_once 'core/coreclass.php';
-
-$web = new core;
-
-$web -> getPage('naslovna');
+include "core/engine.php";
 
 ?>
 
