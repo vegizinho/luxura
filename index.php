@@ -1,3 +1,13 @@
+<?php 
+
+require_once 'core/coreclass.php';
+
+$web = new core;
+
+$web -> getPage('naslovna');
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
