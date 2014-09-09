@@ -17,10 +17,13 @@ class core
 			require_once($file404);
 		}
 		
-		//chose layout depending on page name
-		
-		
-		
+		//chose layout depending on page name		
+	}
+	
+	function getSidebar($page)
+	{
+		$filename = "sidebar-"."$page".".php";
+		$path = "include"."/".$filename;
 	}
 	
 }

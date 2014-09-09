@@ -44,21 +44,21 @@ include "core/engine.php";
 				<div class="collapse navbar-collapse navbar-right"
 					id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
-						<li class="active"><a href="#">Mikro početna</a></li>
-						<li class="dropdown"><a href="#">Luxura početna</a></li>
+						<li class="dropdown"><a href="http://www.mikro.hr">Mikro početna</a></li>
+						<li class="dropdown"><a href="index.php">Luxura početna</a></li>
 						<li class="dropdown"><a href="#" class="dropdown-toggle"
 							data-toggle="dropdown">Proizvodi<span class="caret"></span>
 						</a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="#">Luxura X10</a></li>
-								<li><a href="#">Luxura X5</a></li>
-								<li><a href="#">Luxura X3</a></li>
-								<li><a href="#">Luxura V10</a></li>
-								<li><a href="#">Luxura V7</a></li>
-								<li><a href="#">Luxura V5</a></li>
+								<li><a href="index.php?qs=layout2">Luxura X10</a></li>
+								<li><a href="index.php?qs=layout3">Luxura X5</a></li>
+								<li><a href="index.php?qs=layout2">Luxura X3</a></li>
+								<li><a href="index.php?qs=layout3">Luxura V10</a></li>
+								<li><a href="index.php?qs=layout2">Luxura V7</a></li>
+								<li><a href="index.php?qs=layout3">Luxura V5</a></li>
 							</ul>
 						</li>
-						<li class="dropdown"><a href="#">Kontakt</a></li>
+						<li class="dropdown"><a href="index.php?qs=kontakt">Kontakt</a></li>
 					</ul>
 				</div>
 				<!-- /.navbar-collapse -->
