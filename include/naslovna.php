@@ -1,7 +1,7 @@
 
-<div class="container">
+<div class="main container">
 	<div class="row">
-		<div class="col-md-4">Luxura front image!</div>
+		<div class="col-md-4"><img class="img-responsive frontpage-position" src="img/frontpage/luxura-frontpage.png"></div>
 		<div class="col-md-8">
 			<h2>Welcome to Luxura, professional tanning solutions</h2>
 			<p>Tanning is a popular ‘profit centre' in many companies, either as
@@ -16,7 +16,7 @@
 			</p>
 			<hr>
 <!-- 			<img class="img-responsive" src="img/working/frontpage-sunbeds.jpg"> -->
-			<h4>Product range overview</h4>
+			<h4>Product range overview:</h4>
 			<div class="row">
 			<ul class="frontpage-imagelist">
 				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/x10.jpg"><img class="img-responsive" src="img/frontpage/x10-title.jpg"></li>
@@ -31,9 +31,10 @@
 				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/v10.jpg"><img class="img-responsive" src="img/frontpage/v10-title.jpg"></li>
 				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/v7.jpg"><img class="img-responsive" src="img/frontpage/v7-title.jpg"></li>
 				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/v5.jpg"><img class="img-responsive" src="img/frontpage/v5-title.jpg"></li>
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/like-us.jpg"></li>
+				<li class="col-md-3"><img class="img-responsive like-us" src="img/frontpage/like-us.jpg"></li>
 			</ul>
 			</div>
+			<div class="row separator"></div>
 		</div>
 	</div>
 </div>
