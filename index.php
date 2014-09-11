@@ -37,11 +37,11 @@ include "core/engine.php";
 							class="icon-bar"></span> <span class="icon-bar"></span> <span
 							class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Luxura</a>
+					<a class="navbar-brand" href="#"><img class="img-responsive logo" src="img/frontpage/luxura-logo.png"></a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
-				<div class="collapse navbar-collapse navbar-right"
+				<div class="collapse navbar-collapse navbar-right movedown1"
 					id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
 						<li class="dropdown"><a href="http://www.mikro.hr">Mikro početna</a></li>
