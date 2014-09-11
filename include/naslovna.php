@@ -19,19 +19,19 @@
 			<h4>Product range overview:</h4>
 			<div class="row">
 			<ul class="frontpage-imagelist">
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/x10.jpg"><img class="img-responsive" src="img/frontpage/x10-title.jpg"></li>
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/x7.jpg"><img class="img-responsive" src="img/frontpage/x7-title.jpg"></li>
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/x5.jpg"><img class="img-responsive" src="img/frontpage/x5-title.jpg"></li>
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/x3.jpg"><img class="img-responsive" src="img/frontpage/x3-title.jpg"></li>
+				<a href="index.php?qs=x10"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/x10.jpg"><img class="img-responsive" src="img/frontpage/x10-title.jpg"></li></a>
+				<a href="index.php?qs=x7"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/x7.jpg"><img class="img-responsive" src="img/frontpage/x7-title.jpg"></li></a>
+				<a href="index.php?qs=x5"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/x5.jpg"><img class="img-responsive" src="img/frontpage/x5-title.jpg"></li></a>
+				<a href="index.php?qs=x3"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/x3.jpg"><img class="img-responsive" src="img/frontpage/x3-title.jpg"></li></a>
 			</ul>
 			</div>
 			<div class="row separator"></div>
 			<div class="row">
 			<ul class="frontpage-imagelist">
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/v10.jpg"><img class="img-responsive" src="img/frontpage/v10-title.jpg"></li>
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/v7.jpg"><img class="img-responsive" src="img/frontpage/v7-title.jpg"></li>
-				<li class="col-md-3"><img class="img-responsive" src="img/frontpage/v5.jpg"><img class="img-responsive" src="img/frontpage/v5-title.jpg"></li>
-				<li class="col-md-3"><img class="img-responsive like-us" src="img/frontpage/like-us.jpg"></li>
+				<a href="index.php?qs=v10"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/v10.jpg"><img class="img-responsive" src="img/frontpage/v10-title.jpg"></li></a>
+				<a href="index.php?qs=v7"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/v7.jpg"><img class="img-responsive" src="img/frontpage/v7-title.jpg"></li></a>
+				<a href="index.php?qs=v5"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/v5.jpg"><img class="img-responsive" src="img/frontpage/v5-title.jpg"></li></a>
+				<a href="index.php?qs=like-us"><li class="col-md-3"><img class="img-responsive like-us" src="img/frontpage/like-us.jpg"></li></a>
 			</ul>
 			</div>
 			<div class="row separator"></div>
