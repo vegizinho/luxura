@@ -64,6 +64,9 @@ body
 	border-color: #ddd;
 }
 
+.center { margin: auto; }
+.purple { color: #e50071; }
+
 a:hover.list-group-item.active
 {
 	background-color: #333;
