@@ -16,7 +16,7 @@
 			</p>
 			<hr>
 <!-- 			<img class="img-responsive" src="img/working/frontpage-sunbeds.jpg"> -->
-			<h4>Product range overview:</h4>
+			<h5>Product range overview:</h5>
 			<div class="row">
 			<ul class="frontpage-imagelist">
 				<a href="index.php?qs=x10"><li class="col-md-3"><img class="img-responsive" src="img/frontpage/x10.jpg"><img class="img-responsive" src="img/frontpage/x10-title.jpg"></li></a>

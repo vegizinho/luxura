@@ -1,4 +1,4 @@
-<div class="container">
+<div class="main container">
 	<div class="row">
 		<div class="col-md-3">Big sunbed image</div>
 		<div class="col-md-6">
@@ -43,12 +43,15 @@
 	</div>
 </div>
 
-<div class="container movedown1">
+<div class="main container movedown1">
 	<div class="row subcontent">
+		<div class="col-md-1">
+			
+		</div>
 		<div class="col-md-2">
 			<p>Image</p>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-3">
 			<h4>New! Luxura X7</h4>
 			<p>The latest technical innovations united with a breath taking
 				design. The new Luxura X7 has everything for a complete tanning

@@ -50,7 +50,7 @@ include "core/engine.php";
 							data-toggle="dropdown">Proizvodi<span class="caret"></span>
 						</a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="index.php?qs=layout2">Luxura X10</a></li>
+								<li><a href="index.php?qs=luxura-x10">Luxura X10</a></li>
 								<li><a href="index.php?qs=layout3">Luxura X5</a></li>
 								<li><a href="index.php?qs=layout2">Luxura X3</a></li>
 								<li><a href="index.php?qs=layout3">Luxura V10</a></li>
