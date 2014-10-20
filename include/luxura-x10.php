@@ -61,7 +61,7 @@
 	<div class="row subcontent">
 		<div class="col-md-1"></div>
 		<div class="col-md-2">
-			<p>Image</p>
+			<p><img class="img-responsive movedown1" src="img/frontpage/x7-small.png"></p>
 		</div>
 		<div class="col-md-3">
 			<h4>New! Luxura X7</h4>
@@ -75,7 +75,7 @@
 			</div>
 		</div>
 		<div class="col-md-2">
-			<p>Image</p>
+			<p><img class="img-responsive movedown1" src="img/frontpage/x5-small.png"></p>
 		</div>
 		<div class="col-md-4">
 			<h4>New! Luxura X5</h4>

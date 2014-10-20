@@ -28,7 +28,7 @@ include "core/engine.php";
 
 	<div class="fullwidth">
 		<nav class="navbar navbar-default" role="navigation">
-			<div class="container navbar-default">
+			<div class="cnarrow container">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed"
@@ -74,14 +74,12 @@ include "core/engine.php";
 <!-- START Main part of the content -->
 	<?php $web -> getPage($input); ?>
 <!-- END Main part of the content -->
-
-<div class="container">	
-<div class="row"><div class="sep"></div></div>
-</div>
-
 	
-
-		<div class="footer">
+	
+	
+	
+	<div class="fullwidth">
+		<div class="container footer">
 			<div class="row">
 				<div class="col-md-12">
 					<strong>Copyright
@@ -91,7 +89,7 @@ include "core/engine.php";
 				</div>
 			</div>
 		</div>
-
+	</div>
 
 
 

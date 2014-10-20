@@ -4,7 +4,8 @@
 
 body
 {
-	background-color: #f5f6f7;
+	/*background-color: #f5f6f7;*/
+	background-color: #fff;
 	overflow-x: hidden;
 }
 
@@ -13,7 +14,7 @@ body
 	background-color: #fff;
 }
 
-@media all and (min-width: 991px)
+@media all and (min-width: 992px)
 {
 	.main
 	{
@@ -38,7 +39,7 @@ body
 		
 		background-image: url(../img/frontpage/top-separator.png);
 		background-repeat: repeat-x;
-		background-position: 0px 70px;
+		background-position: 0px 62px;
 	}
 }
 
@@ -52,6 +53,15 @@ body
 	.logo
 	{
 		width: 100px;
+	}
+	.navbar-default
+	{
+		border: none;
+		background-color: #fff;
+		
+		background-image: url(../img/frontpage/top-separator.png);
+		background-repeat: repeat-x;
+		background-position: 0px 62px;
 	}
 	
 }
@@ -88,7 +98,7 @@ a:hover.list-group-item.active
 
 .frontpage-position
 	{
-		padding-top: 40px;
+		/*padding-top: 40px;*/
 	}
 
 .movedown1
@@ -115,7 +125,7 @@ a:hover.list-group-item.active
 .frontpage-imagelist ul,li
 {
 	bullet-style: none;
-	display: inline-block;
+	display: block;
 }
 
 .subcontent
@@ -158,21 +168,38 @@ h5
 
 .footer
 {
-	margin-top: 20px;
 	padding: 15px 0 15px 0;
 	text-align: right;
 	color: #999;
+	background-color: #000;
 	font-size: 11px;
 	font-family: Verdana, Geneva, sans-serif;
 	
-	background-image: url(../img/frontpage/top-separator.png);
-	background-repeat: repeat-x;
-	background-position: 0px 35px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
 }
 
-.fullwidth
+
+.cf-hw /*carousel frontpage height and width*/
 {
-	background-image: url(../img/frontpage/top-separator.png);
-	background-repeat: repeat-x;
-	background-position: 0px 35px;
+	height: 300px;
 }
+
+.carousel-indicators .active
+{
+	background-color: #e9168c;
+}
+
+.carousel-indicators li
+{
+	border: 1px solid #e9168c;
+}
+
+.ccontainer
+{
+	padding: 30px 20px 10px 0;
+}
+
+.sep { height: 6em; }
