@@ -44,21 +44,21 @@ include "core/engine.php";
 				<div class="collapse navbar-collapse navbar-right movedown1"
 					id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
-						<li class="dropdown"><a href="http://www.mikro.hr">Mikro početna</a></li>
-						<li class="dropdown"><a href="index.php">Luxura početna</a></li>
+						<li class="dropdown"><a href="http://www.mikro.hr">MIKRO POČETNA</a></li>
+						<li class="dropdown"><a href="index.php">LUXURA POČETNA</a></li>
 						<li class="dropdown"><a href="#" class="dropdown-toggle"
-							data-toggle="dropdown">Proizvodi<span class="caret"></span>
+							data-toggle="dropdown">PROIZVODI<span class="caret"></span>
 						</a>
 							<ul class="dropdown-menu" role="menu">
-								<li><a href="index.php?qs=luxura-x10">Luxura X10</a></li>
-								<li><a href="index.php?qs=layout3">Luxura X5</a></li>
-								<li><a href="index.php?qs=layout2">Luxura X3</a></li>
-								<li><a href="index.php?qs=layout3">Luxura V10</a></li>
-								<li><a href="index.php?qs=layout2">Luxura V7</a></li>
-								<li><a href="index.php?qs=layout3">Luxura V5</a></li>
+								<li><a href="index.php?qs=luxura-x10">LUXURA X10</a></li>
+								<li><a href="index.php?qs=layout3">LUXURA X5</a></li>
+								<li><a href="index.php?qs=layout2">LUXURA X3</a></li>
+								<li><a href="index.php?qs=layout3">LUXURA V10</a></li>
+								<li><a href="index.php?qs=layout2">LUXURA V7</a></li>
+								<li><a href="index.php?qs=layout3">LUXURA V5</a></li>
 							</ul>
 						</li>
-						<li class="dropdown"><a href="index.php?qs=kontakt">Kontakt</a></li>
+						<li class="dropdown"><a href="index.php?qs=kontakt">KONTAKT</a></li>
 					</ul>
 				</div>
 				<!-- /.navbar-collapse -->
