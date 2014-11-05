@@ -46,8 +46,9 @@ include "core/engine.php";
 					<ul class="nav navbar-nav">
 						<li class="dropdown"><a href="http://www.mikro.hr">MIKRO POČETNA</a></li>
 						<li class="dropdown"><a href="index.php">LUXURA POČETNA</a></li>
-						<li class="dropdown"><a href="#" class="dropdown-toggle"
-							data-toggle="dropdown">PROIZVODI<span class="caret"></span>
+						<li class="dropdown"><a href="index.php?qs=modeli">MODELI</a></li>
+						<li class="dropdown"><a href="index.php?qs=modeli" class="dropdown-toggle"
+							data-toggle="dropdown">MODELI<span class="caret"></span>
 						</a>
 							<ul class="dropdown-menu" role="menu">
 								<li><a href="index.php?qs=luxura-x10">LUXURA X10</a></li>

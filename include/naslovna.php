@@ -36,10 +36,6 @@
 					    </div>
 					   <!-- /.carousel -->
 				</div>
-				
-				
-				
-				
 				</li>
 				<li><img class="img-responsive frontpage-position" src="img/frontpage/ilike-frontpage.png"></li>
 			</ul>
