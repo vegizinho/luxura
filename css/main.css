@@ -159,7 +159,8 @@ h1
 h2
 {
 	font-family: 'Abril Fatface', cursive;
-	color: #1eb5ea;
+	color: #e9168c;
+	/*color: #1eb5ea;*/
 }
 
 h3
@@ -195,13 +196,17 @@ h5
 	bottom: 0;
 	width: 100%;
 	text-align: center;
+	
+	z-index: 99;
 }
 
 
 .cf-hw /*carousel frontpage height and width*/
 {
-	height: 300px;
+	height: 536px;
 }
+
+.pulldown { padding-top: 240px; }
 
 .carousel-indicators .active
 {
@@ -212,6 +217,8 @@ h5
 {
 	border: 1px solid #e9168c;
 }
+
+.carousel-indicators { bottom: -45px; }
 
 .ccontainer
 {
@@ -259,6 +266,10 @@ h5
 	background: #666;
 }
 
+.carousel-inner>.active
+{
+	background: transparent;
+}
 
 .transparent { background: transparent !important; }
 .mcc { width: 720px; height: 220px; }
@@ -269,3 +280,25 @@ col-md-12 .height { height: 700px; padding-left: 0; padding-right: 0; }
 .menu-item a { color: white; }
 .menu-item a:hover { color: #e9168c; }
 
+.videobox { padding: 32px; text-align: right; background: #ddd; }
+.gallerybox { padding: 40px 0 0 0 }
+.gallerybox ul { padding: 0; }
+.gallerybox li { padding: 10px; text-align: left; }
+
+.alignCenter { text-align: center; }
+.noborder { border: 0; }
+
+.video-cover { border: solid 7px #ddd; margin-top: 16px; z-index: -10; background: url(http://img.youtube.com/vi/3zFrQt4u-jk/maxresdefault.jpg); width: 340; height: 240px; }
+.play 
+{ 
+	display: block;
+	background: url(../img/items/play.png); 
+	z-index: 199; 
+	background-repeat: no-repeat; 
+	/*background-position: 50% 50%;*/
+	width: 100px;
+	height: 100px;
+	position: relative;
+	left: 140px;
+	top:  90px;
+}

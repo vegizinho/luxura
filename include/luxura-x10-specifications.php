@@ -24,6 +24,56 @@
 			<div class="row">
 				<div><h1>Specification</h1></div>
 			</div>
+			
+			
+			<div class="row">
+					<div class="panel panel-default noborder">
+					  <!-- Default panel contents -->
+					  <!-- <div class="panel-heading">Panel heading</div> -->
+					  <div class="panel-body">
+					    <p>...</p>
+					  </div>
+					
+					  <!-- Table -->
+					  <table class="table">
+					    ...
+					  </table>
+					</div>
+					Download specifications
+			</div>
+			
+			<div class="row">
+					<div class="panel panel-default noborder">
+					  <!-- Default panel contents -->
+					  <h2>Features</h2>					
+					  <div class="panel-body">
+					    <p>...</p>
+					  </div>
+					
+					  <!-- Table -->
+					  <table class="table">
+					    ...
+					  </table>
+					</div>
+			</div>
+
+			<div class="row">
+					<div class="panel panel-default noborder">
+					  <!-- Default panel contents -->
+					  <h2>Dimensions</h2>					
+					  <div class="panel-body">
+					    <p>...</p>
+					  </div>
+					
+					  <!-- Table -->
+					  <table class="table">
+					    ...
+					  </table>
+					</div>
+			</div>
+
+
+
 	</div>	
 </div>
 

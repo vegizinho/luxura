@@ -24,6 +24,7 @@ include "core/engine.php";
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
+
 <body>
 
 	<div class="fullwidth">
@@ -52,11 +53,12 @@ include "core/engine.php";
 						</a>
 							<ul class="dropdown-menu" role="menu">
 								<li><a href="index.php?qs=luxura-x10">LUXURA X10</a></li>
-								<li><a href="index.php?qs=layout3">LUXURA X5</a></li>
-								<li><a href="index.php?qs=layout2">LUXURA X3</a></li>
-								<li><a href="index.php?qs=layout3">LUXURA V10</a></li>
-								<li><a href="index.php?qs=layout2">LUXURA V7</a></li>
-								<li><a href="index.php?qs=layout3">LUXURA V5</a></li>
+								<li><a href="index.php?qs=luxura-x7">LUXURA X7</a></li>
+								<li><a href="index.php?qs=luxura-x5">LUXURA X5</a></li>
+								<li><a href="index.php?qs=luxura-x3">LUXURA X3</a></li>
+								<li><a href="index.php?qs=luxura-v10">LUXURA V10</a></li>
+								<li><a href="index.php?qs=luxura-v8">LUXURA V8</a></li>
+								<li><a href="index.php?qs=luxura-v6">LUXURA V6</a></li>
 							</ul>
 						</li>
 						<li class="dropdown"><a href="index.php?qs=kontakt">KONTAKT</a></li>
