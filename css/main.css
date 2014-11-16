@@ -156,12 +156,16 @@ h1
 	font-size: 64px;
 }
 
+h1.mega { font-size: 128px; }
+
 h2
 {
 	font-family: 'Abril Fatface', cursive;
 	color: #e9168c;
 	/*color: #1eb5ea;*/
 }
+
+h2.mega { font-size: 64px; }
 
 h3
 {
@@ -180,6 +184,13 @@ h5
 { 
 	font-family: "Open Sans", sans-serif;
 	font-size: 15px;
+	font-weight: bold;
+}
+
+h6 
+{ 
+	font-family: "Open Sans", sans-serif;
+	font-size: 21px;
 	font-weight: bold;
 }
 
@@ -237,6 +248,7 @@ h5
 .image-box { width: 300px; height: 170px; }
 .border-gray { border: 6px solid #ddd; }
 .movedown { margin-top: 20px; }
+.movedown-big { margin-top: 60px; }
 
 .left-pane { width: 450px !important; height: 653px; background-image: url('../img/modeli/luxura-chicks-background.jpg'); }
 
@@ -302,3 +314,16 @@ col-md-12 .height { height: 700px; padding-left: 0; padding-right: 0; }
 	left: 140px;
 	top:  90px;
 }
+
+.color-green { color: #00b3b0 !important; }
+.color-yellow { color: #fcd131 !important; }
+
+.rightImage { width: 640px; height: 400px; }
+.rightImage-small { width: 400px; height: 240px; }
+
+.list-normal ul, li { display: block; list-style: none; }
+.bottom-green { border-bottom: solid 1px #00b3b0; }
+
+table th { color: #e9168c; }
+
+.feature-list li { margin-left: -40px; border-bottom: 1px solid #ddd; padding: 3px; }
